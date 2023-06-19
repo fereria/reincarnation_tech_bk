@@ -1,0 +1,2 @@
+# reincarnation_tech_bk
+mkdocs版のtechサイトの残骸です
