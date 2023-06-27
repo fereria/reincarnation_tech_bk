@@ -7,12 +7,6 @@ on:
     push:
         branches:
             - master
-    repository_dispatch:
-        types:
-            - submodule_update
-    schedule:
-        - cron: "0 16 * * *"
-
 jobs:
     build:
         runs-on: ubuntu-latest
